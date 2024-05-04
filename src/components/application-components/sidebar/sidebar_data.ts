@@ -19,7 +19,7 @@ export type SidebarData = {
 
 export const SIDEBAR_DATA: SidebarData[] = [
   {
-    group: "IN√çCIO",
+    group: "IN√ùCIO",
     links: [
       {
         icon: AiOutlineHome,
@@ -47,7 +47,18 @@ export const SIDEBAR_DATA: SidebarData[] = [
     ],
   },
   {
-    group: "USU√ÅRIOS",
+    group: "MODERA«√O",
+    links: [
+      {
+        icon: FaChalkboardTeacher,
+        title: "Postagens pendentes",
+        description: "P·gina de gerenciamento de pendÍncias da entidade Post",
+        path: "/pending-posts",
+      },
+    ],
+  },
+  {
+    group: "USU√ùRIOS",
     links: [
       {
         icon: SlPeople,
