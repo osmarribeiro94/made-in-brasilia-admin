@@ -24,17 +24,19 @@ export const HOME_PAGE = {
     "A plataforma fornece informações úteis para ajudar os viajantes a planejar sua viagem, incluindo horários de funcionamento, localização e outros detalhes relevantes.",
   title_group1_footer: "Redes Sociais",
   title_group2_footer: "Repositório",
+  title_group2_link1_footer: "Frontend",
+  title_group2_link1_path_footer: "http://localhost:3001/",
+  title_group2_link2_footer: "API",
+  title_group2_link2_path_footer: "http://localhost:3000/api",
+  title_group2_link3_footer: "Banco de dados",
+  title_group2_link3_path_footer: "http://localhost:5050/",
   title_group3_footer: "Contato",
   title_link1_footer: "Osmar",
   title_link2_footer: "Mateus",
-  title_group2_link1_footer: "Frontend",
-  title_group2_link2_footer: "Backend",
-  title_group2_link3_footer: "Admin",
   title_group1_link1_path_footer: "https://www.linkedin.com/in/osmar-ribeiro-114923234/",
   title_group1_link2_path_footer: "https://www.linkedin.com/in/mtscouto/",
   title_group3_link1_path_footer: "mailto:osmar.ferreira@estudante.ifb.edu.br",
-  title_group3_link2_path_footer: "mailto:mtscoutos@gmail.com",
-  title_group2_link1_path_footer: "#"
+  title_group3_link2_path_footer: "mailto:mtscoutos@gmail.com"
 };
 
 export const SINGLE_PLACE_PAGE = {

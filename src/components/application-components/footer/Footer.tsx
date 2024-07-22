@@ -23,11 +23,11 @@ const FOOTER_LINKS: FooterLinks[] = [
       },
       {
         title: HOME_PAGE.title_group2_link2_footer,
-        path: HOME_PAGE.title_group2_link1_path_footer,
+        path: HOME_PAGE.title_group2_link2_path_footer,
       },
       {
         title: HOME_PAGE.title_group2_link3_footer,
-        path: HOME_PAGE.title_group2_link1_path_footer
+        path: HOME_PAGE.title_group2_link3_path_footer
       },
     ]
   },
