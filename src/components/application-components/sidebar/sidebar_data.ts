@@ -19,7 +19,7 @@ export type SidebarData = {
 
 export const SIDEBAR_DATA: SidebarData[] = [
   {
-    group: "INÝCIO",
+    group: "INÍCIO",
     links: [
       {
         icon: AiOutlineHome,
@@ -34,7 +34,7 @@ export const SIDEBAR_DATA: SidebarData[] = [
     links: [
       {
         icon: GiModernCity,
-        title: "Cidades",
+        title: "Bairros",
         description: "Página de gerenciamento da entidade City",
         path: "/cities",
       },
@@ -47,18 +47,18 @@ export const SIDEBAR_DATA: SidebarData[] = [
     ],
   },
   {
-    group: "MODERA��O",
+    group: "MODERAÇÃO",
     links: [
       {
         icon: FaChalkboardTeacher,
         title: "Postagens pendentes",
-        description: "P�gina de gerenciamento de pend�ncias da entidade Post",
+        description: "Página de gerenciamento de pendências da entidade Post",
         path: "/pending-posts",
       },
     ],
   },
   {
-    group: "USUÝRIOS",
+    group: "USUÁRIOS",
     links: [
       {
         icon: SlPeople,
