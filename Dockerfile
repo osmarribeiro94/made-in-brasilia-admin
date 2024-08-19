@@ -26,7 +26,7 @@ COPY . .
 
 # we need to declare environment variables before build command
 ENV NODE_ENV=production
-ENV VITE_API_URL=http://localhost:3000
+ENV VITE_API_URL=https://made-in-brasilia-backend-production-e02d.up.railway.app
 
 # Run the build command which creates the production bundle
 RUN npm run build
